@@ -46,7 +46,7 @@ Currently completing my **MSc in Data Science** at the **University of Naples Fe
 
 > Every project below is deployed, documented, or has a live demo. Click through.
 
-### 🔒 [Phishing Detection API](https://github.com/ideepkush/Data-Science-Projects) &nbsp; [![Live](https://img.shields.io/badge/Live_on_AWS-green?style=flat-square)](http://51.20.3.197:8080/docs)
+### 🔒 [Phishing Detection API](https://github.com/ideepkush/Data-Science-Projects)
 
 **What:** Production REST API that classifies network traffic as phishing or legitimate — in real time and in batch.
 
@@ -112,22 +112,22 @@ Currently completing my **MSc in Data Science** at the **University of Naples Fe
 
 ## 📈 Career Timeline
 
-```
-🏆 Google Challenge 2026    1st Place STEM — Generative AI (Gemini + NotebookLM Pro)
-🎓 MSc Data Science         University of Naples Federico II         Dec 2025 – Present
-💼 Data Analyst             Tata Consultancy Services                Aug 2023 – Nov 2025
-🔬 Research Intern          IIT Indore                               Oct – Nov 2022
-💼 Intern                   JP Morgan Chase                          Jun – Jul 2022
-🎓 BTech Civil Eng.         Jamia Millia Islamia (1st Div. Honours)  2019 – 2023
-```
+| | Role | Organisation | Period |
+|---|---|---|---|
+| 🏆 | Google Challenge 2026 — 1st Place STEM | Generative AI (Gemini + NotebookLM Pro) | 2026 |
+| 🎓 | MSc Data Science | University of Naples Federico II | Dec 2025 – Present |
+| 💼 | Data Analyst | Tata Consultancy Services | Aug 2023 – Nov 2025 |
+| 🔬 | Research Intern | IIT Indore | Oct – Nov 2022 |
+| 💼 | Intern | JP Morgan Chase | Jun – Jul 2022 |
+| 🎓 | BTech Civil Eng. | Jamia Millia Islamia (1st Div. Honours) | 2019 – 2023 |
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ideepkush&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideepkush&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ideepkush&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideepkush&layout=compact&theme=default&hide_border=true&cache_seconds=1800" height="150"/>
 </p>
 
 ---

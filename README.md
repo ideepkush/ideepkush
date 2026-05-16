@@ -15,41 +15,61 @@
 
 ## About Me
 
-I'm a Data Scientist with **2+ years of production experience** at Tata Consultancy Services, where I worked across the full data lifecycle — from engineering pipelines to deploying ML models in cloud environments. I've also interned at **JP Morgan Chase** and conducted research at **IIT Indore**.
+I'm a **Data Scientist with 2+ years of production experience** at Tata Consultancy Services, building ML systems that actually run in production. I work across the full data lifecycle — from pipelines and model development to cloud deployment and monitoring.
 
-Currently pursuing an **MSc in Data Science at the University of Naples Federico II**, where I recently led **Team Hindustani to 1st place in the STEM category at Google Challenge Campania 2026** — building a generative AI solution using Gemini and NotebookLM Pro under competitive conditions.
+I've also interned at **JP Morgan Chase** and conducted research at **IIT Indore**. Currently pursuing an **MSc in Data Science at the University of Naples Federico II**.
 
-I build things that actually run in production: containerized APIs, real-time streaming pipelines, and AI automation systems.
+Recently led **Team Hindustani to 1st place in the STEM category at Google Challenge Campania 2026** — building a generative AI solution under competitive conditions.
+
+I specialize in: containerized APIs, real-time streaming pipelines, ML deployment, and AI automation systems.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Phishing Detection API**](https://github.com/ideepkush/Data-Science-Projects) | Containerized REST API for real-time & batch network security predictions, live on AWS EC2 | FastAPI · Docker · MLflow · MongoDB · AWS |
-| [**Job Application AI System**](https://github.com/ideepkush/Job-Application-Automation-System) | Self-hosted AI that discovers, scores & tailors job applications automatically (~$1.80/month) | n8n · Claude API · PostgreSQL · Docker |
-| [**Churn Prediction (ANN)**](https://github.com/ideepkush/deep-learning-churn-prediction) | Deep learning churn model with dropout regularization, deployed live via Streamlit | TensorFlow · Keras · Streamlit |
-| [**Movie Recommender**](https://github.com/ideepkush/movie-rec-main) | Content-based + collaborative filtering recommender, deployed as interactive app | Scikit-learn · NLP · Streamlit |
-| [**Spark + Kafka Pipeline**](https://github.com/ideepkush/Data-Science-Projects) | Real-time sentiment & fault classification on high-volume data streams | PySpark · Kafka · Spark NLP |
+| Project | What it does | Tech |
+|---------|-------------|------|
+| **Phishing Detection API** | Production REST API for real-time network security predictions, live on AWS EC2 | FastAPI · Docker · MLflow · MongoDB · AWS |
+| **Job Application AI System** | AI automation that discovers, scores & tailors job applications (~$1.80/month) | n8n · Claude API · PostgreSQL · Docker |
+| **Churn Prediction (ANN)** | Deep learning churn model deployed live via Streamlit | TensorFlow · Keras · Streamlit |
+| **Movie Recommender** | Content-based + collaborative filtering recommender | Scikit-learn · NLP · Streamlit |
+| **Spark + Kafka Pipeline** | Real-time sentiment & fault classification on streaming data | PySpark · Kafka · Spark NLP |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**ML & Deep Learning**
-`Scikit-learn` `TensorFlow` `Keras` `Transformers` `Transfer Learning` `A/B Testing`
+**Machine Learning & Deep Learning**
+TensorFlow · Keras · Scikit-learn · Transformers · Transfer Learning · A/B Testing
 
 **Big Data & Streaming**
-`Apache Spark` `PySpark` `Kafka` `Spark NLP` `Hadoop`
+Apache Spark · PySpark · Kafka · Spark NLP · Hadoop
 
 **MLOps & Deployment**
-`FastAPI` `Docker` `MLflow` `DagsHub` `AWS EC2` `AWS S3` `n8n`
+FastAPI · Docker · MLflow · DagsHub · AWS (EC2, S3) · n8n · Streamlit
 
-**Languages & Databases**
-`Python` `SQL` `Java` `MongoDB` `Git`
+**Languages & Tools**
+Python · SQL · Java · MongoDB · Git
 
 ---
 
 ## 📈 Experience
 
+| Role | Organization | Period |
+|------|--------------|--------|
+| MSc Data Science | University of Naples Federico II | Dec 2025 – Present |
+| Data Analyst | Tata Consultancy Services | Aug 2023 – Nov 2025 |
+| Research Intern | IIT Indore | Oct – Nov 2022 |
+| Intern | JP Morgan Chase | Jun – Jul 2022 |
+| BTech Civil Engineering | Jamia Millia Islamia (1st Div.) | 2019 – 2023 |
+
+---
+
+## 🏆 Recognition
+
+**🥇 Google Challenge Campania 2026 — 1st Place, STEM**
+Led a 4-person team. Built a generative AI solution using Gemini + NotebookLM Pro. Awarded by Google.
+
+---
+
+<p align="center"><i>"From Civil Engineering to Production ML — sometimes the long way is the right way."</i></p>

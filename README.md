@@ -126,8 +126,7 @@ Currently completing my **MSc in Data Science** at the **University of Naples Fe
 ## 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ideepkush&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideepkush&layout=compact&theme=default&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ideepkush&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---

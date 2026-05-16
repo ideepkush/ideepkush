@@ -117,8 +117,8 @@ Currently completing my **MSc in Data Science** at the **University of Naples Fe
 | 🏆 | Google Challenge 2026 — 1st Place STEM | Generative AI (Gemini + NotebookLM Pro) | 2026 |
 | 🎓 | MSc Data Science | University of Naples Federico II | Dec 2025 – Present |
 | 💼 | Data Analyst | Tata Consultancy Services | Aug 2023 – Nov 2025 |
+| 💼 | Intern | JP Morgan Chase | Jul – Dec 2022 |
 | 🔬 | Research Intern | IIT Indore | Oct – Nov 2022 |
-| 💼 | Intern | JP Morgan Chase | Jun – Jul 2022 |
 | 🎓 | BTech Civil Eng. | Jamia Millia Islamia (1st Div. Honours) | 2019 – 2023 |
 
 ---
